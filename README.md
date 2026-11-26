@@ -51,6 +51,8 @@ plt.show()
 
 <img width="722" height="527" alt="Screenshot 2026-11-24 105747" src="https://github.com/user-attachments/assets/d6f8e312-7395-48cf-9343-476b50f3a122" />
 
+<img width="788" height="541" alt="image" src="https://github.com/user-attachments/assets/985c4add-33da-42ae-a6c6-6600f2b0a5a3" />
+
 
 </br>
 </br>
